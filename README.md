@@ -2,7 +2,7 @@
 
 *I am a Frontend programmer and a student of Backend programming. I have a great passion for user interface effects, animations and the creation of intuitive and dynamic user experiences. I just love what I do.❤️❤️*
 
-![Eder Sena GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=ederusena&show_icons=true&hide_border=true)
+![Eder Sena GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=ederusena&show_icons=true&hide_border=true%theme=vue-dark)
 
 Things I like to do:
 
