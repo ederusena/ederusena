@@ -1,17 +1,27 @@
-### Hi i'm Eder, 👋
+<p align="center">
+  <a href="https://github.com/ederusena">
+    <img src="https://w7.pngwing.com/pngs/581/573/png-transparent-ninja-holding-red-ninja-laptop-illustration-ninja-computer-programming-learning-study-skills-avatar-heroes-cartoon-fictional-character.png" alt="cover" title="Eder Sena" border="0">
+  </a>
+</p>
 
-<!--
-**ederusena/ederusena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ederusena)](https://github.com/anuraghazra/github-readme-stats)
+## Hi, I'm Eder Sena. Nice to meet you. 👋🏾
 
-Here are some ideas to get you started:
+*I am a Frontend programmer and a student of Backend programming. I have a great passion for user interface effects, animations and the creation of intuitive and dynamic user experiences. I just love what I do.❤️❤️*
 
-- 🔭 I’m currently working on Node.JS/React project
-- 🌱 I’m currently learning NodeJS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Eder Sena GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=ederusena&show_icons=true&hide_border=true)
+
+Things I like to do:
+
+- 🖥 Web Applications
+- 🎨 Interfaces
+- 📱 Applications
+
+About me:
+
+- 🔭 I am currently working at Rocketseat as a software developer
+- 🌱 I'm currently learning JavaScript, ReactJS and NodeJS
+- ✊🏽 I try to collaborate on social impact projects
+- 💡 I try to help people who are starting in programming
+- 💬 Ask me about anything, but know that I'm passionate about technology
+- 📫 How to contact me: [My Linkedin](https://www.linkedin.com/in/gabrieldejesuss), [My Portfolio](https://www.gabrieldesenvolvedor.com), [My E-mail](devgabrieldejesus@gmail.com)
+- ⚡ Curiosity: I am silently confident, curious by nature and always working to face all the challenges that lie ahead.
