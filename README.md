@@ -1,10 +1,4 @@
-<p align="center">
-  <a href="https://github.com/ederusena">
-    <img src="https://w7.pngwing.com/pngs/581/573/png-transparent-ninja-holding-red-ninja-laptop-illustration-ninja-computer-programming-learning-study-skills-avatar-heroes-cartoon-fictional-character.png" alt="cover" title="Eder Sena" border="0">
-  </a>
-</p>
-
-## Hi, I'm Eder Sena. Nice to meet you. 👋🏾
+## Hi, I'm Eder Sena. Nice to meet you.
 
 *I am a Frontend programmer and a student of Backend programming. I have a great passion for user interface effects, animations and the creation of intuitive and dynamic user experiences. I just love what I do.❤️❤️*
 
