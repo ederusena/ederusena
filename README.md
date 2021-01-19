@@ -1,7 +1,8 @@
 ## Hi, I'm Eder Sena. Nice to meet you.
 
 *I am a student of Frontend/Backend programming. I have a great passion for programming. I'm looking for opportunities.
- I just love what I do.❤️❤️*
+ I just love what I do.
+ 
 ![Favorite Tools:](https://img.shields.io/badge/favorite%20tools:%20-%23000.svg?&style=for-the-badge) 
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black) 
