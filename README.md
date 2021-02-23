@@ -1,8 +1,9 @@
 ## Hi, I'm Eder Sena. Nice to meet you.
-
+ https://ederusena.github.io/
+ 
 *I am a student of Frontend/Backend programming. I have a great passion for programming. I'm looking for opportunities.
  I just love what I do.
- https://ederusena.github.io/
+
 ![Favorite Tools:](https://img.shields.io/badge/favorite%20tools:%20-%23000.svg?&style=for-the-badge) 
 ![Javscript](https://img.shields.io/badge/javascript%20-%23007ACC.svg?&style=for-the-badge&logo=javascript&logoColor=white) 
 ![React](https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black) 
