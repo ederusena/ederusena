@@ -27,3 +27,5 @@ About me:
 - 💬 Ask me about anything, but know that I'm passionate about technology
 - 📫 How to contact me: [My Linkedin](https://www.linkedin.com/in/edersena), [My E-mail](eder.sena@live.com)
 - ⚡ Curiosity: I am silently confident, curious by nature and always working to face all the challenges that lie ahead.
+- 
+![Passaporte-react-js](https://user-images.githubusercontent.com/26800480/116770994-48ad7480-aa1e-11eb-8c26-f552727f3a70.png)
